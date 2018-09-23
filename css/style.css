@@ -1,0 +1,29 @@
+body {
+    text-align: center;
+}
+
+
+p {
+	color: #e19;
+	font-size: 2em;
+	margin: 15px;
+}
+
+
+#score {
+	color: #e19;
+	font-size: 2em;
+	margin: 20px;
+	text-align: center;
+}
+
+
+.restart {
+  border: 2px solid #808;
+  background-color: #fcc;
+  color:#808;
+  padding: 10px 10px;
+  font-size: 12px;
+  cursor: pointer;
+  font-family: 'Caveat Brush', cursive;
+}
