@@ -7,7 +7,7 @@
 
 * This is written using concepts of Object-Oriented JavaScript in HTML, CSS and Javascript.
 
-* The webpage can be accessed by opening the index.html file in the browser.
+* The webpage can be accessed by opening the index.html file in the browser  OR  [Play here](https://faazaah.github.io/Classic-Arcade-Game/)
 
 
  ##### About the Game: 
