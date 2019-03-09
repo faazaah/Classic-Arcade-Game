@@ -1,7 +1,7 @@
  # Project 3 : The Classic Arcade Game Clone
 
 
-* The webpage displays an interactive game.This game is a slight variation of the Classic Arcade Game Frogger.
+* The webpage displays an interactive game, which is a recreation of the Classic Arcade Game Frogger.
 
 * The game was created as part of Udacity project, using the art assets and game engine provided by Udacity.
 
@@ -41,4 +41,6 @@
 
 * https://developer.mozilla.org/en-US/docs/Games/Techniques/2D_collision_detection
  
-* https://developer.mozilla.org/
+* [MDN Web Docs](https://developer.mozilla.org/en-US/)
+
+* Courses on [Udacity](https://www.udacity.com/)
